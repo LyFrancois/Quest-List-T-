@@ -1,0 +1,12 @@
+/Users/chahinely/Projects/qList/qList/bin/Debug/netcoreapp3.1/qList.deps.json
+/Users/chahinely/Projects/qList/qList/bin/Debug/netcoreapp3.1/qList.runtimeconfig.json
+/Users/chahinely/Projects/qList/qList/bin/Debug/netcoreapp3.1/qList.runtimeconfig.dev.json
+/Users/chahinely/Projects/qList/qList/bin/Debug/netcoreapp3.1/qList.dll
+/Users/chahinely/Projects/qList/qList/bin/Debug/netcoreapp3.1/qList.pdb
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.csprojAssemblyReference.cache
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.AssemblyInfoInputs.cache
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.AssemblyInfo.cs
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.csproj.CoreCompileInputs.cache
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.dll
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.pdb
+/Users/chahinely/Projects/qList/qList/obj/Debug/netcoreapp3.1/qList.genruntimeconfig.cache
